@@ -1,4 +1,4 @@
-# Distributed Storage System
+# Reduced Distributed File System
 
 ## Project Overview
 This project implements a distributed storage system with master and client components. It demonstrates handling file chunks across multiple nodes, enabling efficient storage and retrieval in a networked environment. The system utilizes linked lists for node management and multithreading for concurrent client handling.
